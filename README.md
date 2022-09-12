@@ -1,0 +1,2 @@
+# functions
+Basic of python
